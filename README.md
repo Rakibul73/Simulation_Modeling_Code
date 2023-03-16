@@ -48,9 +48,9 @@ py -3.11 -m pip install numpy
 ##### Normally Distributed Random Numbers . Use this `numpy.random.randn()` for Normally distributed random number
 <br/>
 
-### 2.7 Simulation of Bombing Problem
- [Jupyter File]() 
- [Python File](./same_python_file/)
+### 2.7 Simulation of Bombing Problem using Monte Carlo Method
+ [Jupyter File (Rectangular Shape)](./rectangular_shape_bombing_area.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (Circle Shape)](./circle_shape_bombing_area.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (Any Shape)](./any_shape_bombing_area.ipynb)  <br/>
+ [Python File (Rectangular Shape)](./same_python_file/rectangular_shape_bombing_area.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (Circle Shape)](./same_python_file/circle_shape_bombing_area.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (Any Shape)](./same_python_file/any_shape_bombing_area.py)
 
 
 ### 2.8 Szzzzzzzzzzzzzzzzzz
