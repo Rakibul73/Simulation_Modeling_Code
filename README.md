@@ -20,27 +20,27 @@ py -3.11 -m pip install numpy
 ## Code for Academic Course CIT-324 (Simulation and Modeling Sessional)
 
 ### 2.1 Area of Irreglar Figure using Monte Carlo Method
- [Jupyter File](./area_of_irreglar_figure_using_monte.ipynb) 
+ [Jupyter File](./area_of_irreglar_figure_using_monte.ipynb) <br/>
  [Python File](./same_python_file/Area_of_an_Irregular_Shape.py)
 
 ### 2.2 Gambling Game using Monte Carlo Method
- [Jupyter File](./gambling_game.ipynb) 
+ [Jupyter File](./gambling_game.ipynb) <br/>
  [Python File](./same_python_file/gambling_game.py)
 
 ### 2.3 Numerical Integration using Monte Carlo Method
- [Jupyter File Alternative 2](./numerical_integration_using_monte_alternative_2.ipynb)  &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File Alternative 3](./numerical_integration_using_monte_alternative_3.ipynb)  &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File](./numerical_integration_using_monte.ipynb) 
+ [Jupyter File Alternative 2](./numerical_integration_using_monte_alternative_2.ipynb)  &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File Alternative 3](./numerical_integration_using_monte_alternative_3.ipynb)  &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File](./numerical_integration_using_monte.ipynb) <br/>
  [Python File Alternative 2](./same_python_file/numerical_integration_using_monte_alternative_2.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 3](./same_python_file/numerical_integration_using_monte_alternative_3.py)
 
 ### 2.4 Determining Value of PI (π) using Monte Carlo Method
- [Jupyter File Alternative 2](./pi_alternative_2.ipynb)  &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File](./pi.ipynb)
+ [Jupyter File Alternative 2](./pi_alternative_2.ipynb)  &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File](./pi.ipynb) <br/>
  [Python File Alternative 2](./same_python_file/pi_alternative_2.py)
 
 ### 2.5 Random Walk Problem using Monte Carlo Method
- [Jupyter File (2D)](./random_walk_2D.ipynb)   &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (3D)](./random_walk_3D.ipynb)   &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (Book)](./random_walk_boi.ipynb)
+ [Jupyter File (2D)](./random_walk_2D.ipynb)   &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (3D)](./random_walk_3D.ipynb)   &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (Book)](./random_walk_boi.ipynb) <br/>
  [Python File (2D)](./same_python_file/random_walk_2D.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (3D)](./same_python_file/random_walk_3D.py)
 
 ### 2.6 Reliability Problem (Bearing OLD & NEW Policy) using Monte Carlo Method
- [Jupyter File (old policy)](./reliability_problem_old_policy.ipynb)   &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (new policy)](./reliability_problem_new_policy.ipynb) 
+ [Jupyter File (old policy)](./reliability_problem_old_policy.ipynb)   &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (new policy)](./reliability_problem_new_policy.ipynb)  <br/>
  [Python File (old policy)](./same_python_file/reliability_problem_old_policy.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (new policy)](./same_python_file/reliability_problem_new_policy.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (Combine code)](./same_python_file/Bearing%20Reliability.py) 
 
 <br/>
