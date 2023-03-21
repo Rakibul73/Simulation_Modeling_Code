@@ -53,11 +53,11 @@ py -3.11 -m pip install numpy
  [Python File (Rectangular Shape)](./same_python_file/rectangular_shape_bombing_area.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (Circle Shape)](./same_python_file/circle_shape_bombing_area.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (Any Shape)](./same_python_file/any_shape_bombing_area.py)
 
 
-### 2.8 Szzzzzzzzzzzzzzzzzz
- [Jupyter File]() 
- [Python File](./same_python_file/)
+### 2.8 Hinge Assembly using Stochastic Model
+ [Jupyter File](./hinge_assembly.ipynb) 
+ [Python File](./same_python_file/hinge_assembly.py)
 
-### 2.9 zzzzzzzzzzzzzzzzzzzzzz
- [Jupyter File]() 
- [Python File](./same_python_file/)
+### 2.9 Four Tubes Problem using Stochastic Model
+ [Jupyter File](./four_tubes_problem.ipynb) 
+ [Python File](./same_python_file/four_tubes_problem.py)
 
