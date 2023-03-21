@@ -54,10 +54,10 @@ py -3.11 -m pip install numpy
 
 
 ### 2.8 Hinge Assembly using Stochastic Model
- [Jupyter File](./hinge_assembly.ipynb) 
+ [Jupyter File](./hinge_assembly.ipynb)  <br/>
  [Python File](./same_python_file/hinge_assembly.py)
 
 ### 2.9 Four Tubes Problem using Stochastic Model
- [Jupyter File](./four_tubes_problem.ipynb) 
+ [Jupyter File](./four_tubes_problem.ipynb)  <br/>
  [Python File](./same_python_file/four_tubes_problem.py)
 
