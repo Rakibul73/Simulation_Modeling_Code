@@ -63,7 +63,7 @@ py -3.11 -m pip install numpy
 
 <br/>
 
-### 2.9 Random Walk (Exercise) Problem using Monte Carlo Method
+### (Exercise) Random Walk with Probability using Monte Carlo Method
  [jupyter File (2D) Exercise](./random_walk_2D_exercise.ipynb)   &nbsp;&nbsp; / &nbsp;&nbsp; [jupyter File (2D) Exercise 2](./random_walk_2D_exercise_2.ipynb)  <br/>
  [Python File (2D) Exercise](./same_python_file/random_walk_2D_exercise.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (2D) Exercise 2](./same_python_file/random_walk_2D_exercise_2.py)
 
