@@ -18,7 +18,8 @@ py -3.11 -m pip install numpy
 ```
 
 ## Code for Academic Course CIT-324 (Simulation and Modeling Sessional)
-
+##### `Chapter 2`
+<br/>
 ### 2.1 Area of Irreglar Figure using Monte Carlo Method
  [Jupyter File](./area_of_irreglar_figure_using_monte.ipynb) <br/>
  [Python File](./same_python_file/Area_of_an_Irregular_Shape.py)
@@ -70,3 +71,11 @@ py -3.11 -m pip install numpy
 ### (Exercise 9) Uniform Distribution Random Variable
  [Jupyter File](./Exercise_9.ipynb)  <br/>
  [Python File](./same_python_file/Exercise_9.py)
+
+<br/>
+##### `Chapter 3`
+<br/>
+
+ ### 3.2 Pure Pursuit Problem (Fighter Attacking Bomber)
+ [Jupyter File (2D No Animation)](./pure_pursuit_problem_2D_no_animation.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (3D No Animation)](./pure_pursuit_problem_3D_no_animation.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (2D Animation)](./pure_pursuit_problem_2D_animation.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (3D Animation)](./)  <br/>
+ [Python File (2D No Animation)](./same_python_file/pure_pursuit_problem_2D_no_animation.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (3D No Animation)](./same_python_file/pure_pursuit_problem_3D_no_animation.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (2D Animation)](./same_python_file/pure_pursuit_problem_2D_animation.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (3D Animation)](./same_python_file/pure_pursuit_problem_3D_animation.py)
