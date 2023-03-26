@@ -73,6 +73,7 @@ py -3.11 -m pip install numpy
  [Python File](./same_python_file/Exercise_9.py)
 
 <br/>
+
 ##### `Chapter 3`
 <br/>
 
