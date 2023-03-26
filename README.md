@@ -77,5 +77,5 @@ py -3.11 -m pip install numpy
 <br/>
 
  ### 3.2 Pure Pursuit Problem (Fighter Attacking Bomber)
- [Jupyter File (2D No Animation)](./pure_pursuit_problem_2D_no_animation.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (3D No Animation)](./pure_pursuit_problem_3D_no_animation.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (2D Animation)](./pure_pursuit_problem_2D_animation.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (3D Animation)](./)  <br/>
+ [Jupyter File (2D No Animation)](./pure_pursuit_problem_2D_no_animation.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (3D No Animation)](./pure_pursuit_problem_3D_no_animation.ipynb) &nbsp;&nbsp; <br/>
  [Python File (2D No Animation)](./same_python_file/pure_pursuit_problem_2D_no_animation.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (3D No Animation)](./same_python_file/pure_pursuit_problem_3D_no_animation.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (2D Animation)](./same_python_file/pure_pursuit_problem_2D_animation.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (3D Animation)](./same_python_file/pure_pursuit_problem_3D_animation.py)
