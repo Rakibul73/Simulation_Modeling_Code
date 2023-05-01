@@ -20,6 +20,7 @@ py -3.11 -m pip install numpy
 ## Code for Academic Course CIT-324 (Simulation and Modeling Sessional)
 ##### `Chapter 2`
 <br/>
+
 ### 2.1 Area of Irreglar Figure using Monte Carlo Method
  [Jupyter File](./area_of_irreglar_figure_using_monte.ipynb) <br/>
  [Python File](./same_python_file/Area_of_an_Irregular_Shape.py)
