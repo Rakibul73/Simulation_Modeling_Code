@@ -42,7 +42,7 @@ py -3.11 -m pip install numpy
  [Python File (2D)](./same_python_file/random_walk_2D.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (3D)](./same_python_file/random_walk_3D.py)
 
 ### 2.6 Reliability Problem (Bearing OLD & NEW Policy) using Monte Carlo Method
- [Jupyter File (old policy)](./reliability_problem_old_policy.ipynb)   &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (new policy)](./reliability_problem_new_policy.ipynb)  <br/>
+ [Jupyter File (old policy)](./reliability_problem_old_policy.ipynb)   &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (new policy)](./reliability_problem_new_policy.ipynb)   &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (old vs new compare)](./reliability_problem_compare.ipynb)  <br/>
  [Python File (old policy)](./same_python_file/reliability_problem_old_policy.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (new policy)](./same_python_file/reliability_problem_new_policy.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (Combine code)](./same_python_file/Bearing%20Reliability.py) 
 
 <br/>
