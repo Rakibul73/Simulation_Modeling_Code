@@ -87,3 +87,18 @@ py -3.11 -m pip install numpy
 ### 3.3 Simulation of a Chemical Reaction
  [jupyter File](./chemical_reaction.ipynb)     <br/>
  [Python File](./same_python_file/chemical_reaction.py)
+
+ <br/>
+
+##### `Chapter 4`
+<br/>
+
+### 4.5 Mid Square Random Number Generator
+ [jupyter File](./mid_square_random_number_generator.ipynb)     <br/>
+ [Python File](./same_python_file/mid_square_random_number_generator.py)
+
+ <br/>
+
+### 4.6 Congruence or Residue Random Number Generator
+ [jupyter File](./congruence_or_residue_random_num_generator.ipynb)     <br/>
+ [Python File](./same_python_file/congruence_or_residue_random_num_generator.py)
