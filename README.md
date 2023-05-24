@@ -82,8 +82,6 @@ py -3.11 -m pip install numpy
  [Jupyter File (2D No Animation)](./pure_pursuit_problem_2D_no_animation.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (3D No Animation)](./pure_pursuit_problem_3D_no_animation.ipynb) &nbsp;&nbsp; <br/>
  [Python File (2D No Animation)](./same_python_file/pure_pursuit_problem_2D_no_animation.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (3D No Animation)](./same_python_file/pure_pursuit_problem_3D_no_animation.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (2D Animation)](./same_python_file/pure_pursuit_problem_2D_animation.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (3D Animation)](./same_python_file/pure_pursuit_problem_3D_animation.py)
 
- <br/>
-
 ### 3.3 Simulation of a Chemical Reaction
  [jupyter File](./chemical_reaction.ipynb)     <br/>
  [Python File](./same_python_file/chemical_reaction.py)
@@ -97,19 +95,13 @@ py -3.11 -m pip install numpy
  [jupyter File](./mid_square_random_number_generator.ipynb)     <br/>
  [Python File](./same_python_file/mid_square_random_number_generator.py)
 
- <br/>
-
 ### 4.6 Congruence or Residue Random Number Generator
  [jupyter File](./congruence_or_residue_random_num_generator.ipynb)     <br/>
  [Python File](./same_python_file/congruence_or_residue_random_num_generator.py)
 
- <br/>
-
 ### 4.7 Arithmetic Congruential Random Number Generator
  [jupyter File](./arithmetic_congruential_random_num_generator.ipynb)     <br/>
  [Python File](./same_python_file/arithmetic_congruential_random_num_generator.py)
-
- <br/>
 
 ### 4.11 Kolmogorov - Smirnov Test
  [jupyter File](./kolmogorov_smirnov_test.ipynb)     <br/>
