@@ -108,3 +108,9 @@ py -3.11 -m pip install numpy
 ### 4.7 Arithmetic Congruential Random Number Generator
  [jupyter File](./arithmetic_congruential_random_num_generator.ipynb)     <br/>
  [Python File](./same_python_file/arithmetic_congruential_random_num_generator.py)
+
+ <br/>
+
+### 4.11 Kolmogorov - Smirnov Test
+ [jupyter File](./kolmogorov_smirnov_test.ipynb)     <br/>
+ [Python File](./same_python_file/kolmogorov_smirnov_test.py)
