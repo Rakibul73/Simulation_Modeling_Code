@@ -102,3 +102,9 @@ py -3.11 -m pip install numpy
 ### 4.6 Congruence or Residue Random Number Generator
  [jupyter File](./congruence_or_residue_random_num_generator.ipynb)     <br/>
  [Python File](./same_python_file/congruence_or_residue_random_num_generator.py)
+
+ <br/>
+
+### 4.7 Arithmetic Congruential Random Number Generator
+ [jupyter File](./arithmetic_congruential_random_num_generator.ipynb)     <br/>
+ [Python File](./same_python_file/arithmetic_congruential_random_num_generator.py)
