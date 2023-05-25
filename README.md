@@ -106,3 +106,6 @@ py -3.11 -m pip install numpy
 ### 4.11 Kolmogorov - Smirnov Test
  [jupyter File](./kolmogorov_smirnov_test.ipynb)     <br/>
  [Python File](./same_python_file/kolmogorov_smirnov_test.py)
+### 4.12 Chi Squared Test
+ [jupyter File](./chi_squared_test.ipynb)     <br/>
+ [Python File](./same_python_file/chi_squared_test.py)
