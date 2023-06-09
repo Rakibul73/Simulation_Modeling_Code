@@ -47,7 +47,10 @@ py -3.11 -m pip install numpy
 
 <br/>
 
-##### Normally Distributed Random Numbers . Use this `numpy.random.randn()` for Normally distributed random number
+#### Normally Distributed Random Numbers . 
+
+Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally distributed random number 
+
 <br/>
 
 ### 2.7 Simulation of Bombing Problem using Monte Carlo Method
@@ -109,3 +112,12 @@ py -3.11 -m pip install numpy
 ### 4.12 Chi Squared Test
  [jupyter File](./chi_squared_test.ipynb)     <br/>
  [Python File](./same_python_file/chi_squared_test.py)
+
+<br/>
+
+### Poisson Distribution Example
+ [jupyter File](./poisson_distribution.ipynb)     <br/>
+ [Python File](./same_python_file/poisson_distribution.py)
+### Unimodal Multimodal Density Curves Normal Distribution Example
+ [jupyter File](./unimodal_multimodal_density_curves_normal_distribution.ipynb)     <br/>
+ [Python File](./same_python_file/unimodal_multimodal_density_curves_normal_distribution.py)
