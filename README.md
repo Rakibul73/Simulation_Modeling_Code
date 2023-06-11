@@ -98,6 +98,9 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
  ### (Exercise 2) Bullet Trajectory
  [jupyter File](./bullet_trajectory.ipynb)     <br/>
  [Python File](./same_python_file/bullet_trajectory.py)
+ ### (Exercise 4) Cannon Fires Ball
+ [jupyter File](./cannon_fires_ball.ipynb)     <br/>
+ [Python File](./same_python_file/cannon_fires_ball.py)
 
  <br/>
 
