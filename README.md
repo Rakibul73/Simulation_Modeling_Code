@@ -128,6 +128,9 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
 ### 4.12 Chi Squared Test
  [jupyter File](./chi_squared_test.ipynb)     <br/>
  [Python File](./same_python_file/chi_squared_test.py)
+### 4.13 Testing for Autocorrelation
+ [jupyter File](./testing_for_autocorrelation.ipynb)     <br/>
+ [Python File](./same_python_file/testing_for_autocorrelation.py)
 
 <br/>
 
