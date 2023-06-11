@@ -101,6 +101,9 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
  ### (Exercise 4) Cannon Fires Ball
  [jupyter File](./cannon_fires_ball.ipynb)     <br/>
  [Python File](./same_python_file/cannon_fires_ball.py)
+ ### (Exercise 10) Serial Chase Exercise
+ [jupyter File](./serial_chase_exercise.ipynb)     <br/>
+ [Python File](./same_python_file/serial_chase_exercise.py)
 
  <br/>
 
