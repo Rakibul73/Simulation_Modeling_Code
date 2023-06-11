@@ -92,6 +92,9 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
 ### 3.6 A Serial Chase Problem
  [Jupyter File (No Plot Graph)](./serial_chase_problem.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (Plot Graph + No Animation)](./serial_chase_problem_gui.ipynb) &nbsp;&nbsp; <br/>
  [Python File (No Plot Graph)](./same_python_file/serial_chase_problem.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (Plot Graph + No Animation)](./same_python_file/serial_chase_problem_gui.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (Plot Animation) (D goes straight line in y)](./same_python_file/serial_chase_problem_animation_1.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (Plot Animation) (D moves toward A)](./same_python_file/serial_chase_problem_animation_2.py)
+ ### 3.7 Simulation of Exterior Ballistics
+ [jupyter File](./simulation_of_exterior_ballistics.ipynb)     <br/>
+ [Python File](./same_python_file/simulation_of_exterior_ballistics.py)
 
  <br/>
 
