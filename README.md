@@ -95,6 +95,9 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
  ### 3.7 Simulation of Exterior Ballistics
  [jupyter File](./simulation_of_exterior_ballistics.ipynb)     <br/>
  [Python File](./same_python_file/simulation_of_exterior_ballistics.py)
+ ### (Exercise 2) Bullet Trajectory
+ [jupyter File](./bullet_trajectory.ipynb)     <br/>
+ [Python File](./same_python_file/bullet_trajectory.py)
 
  <br/>
 
