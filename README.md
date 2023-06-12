@@ -131,6 +131,9 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
 ### 4.13 Testing for Autocorrelation
  [jupyter File](./testing_for_autocorrelation.ipynb)     <br/>
  [Python File](./same_python_file/testing_for_autocorrelation.py)
+### 4.14 Poker Test
+ [Jupyter File (3 Digit)](./poker_test_three_digit.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (4 Digit)](./poker_test_four_digit.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (5 Digit)](./poker_test_five_digit.ipynb)  <br/>
+ [Python File (3 Digit)](./same_python_file/poker_test_three_digit.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (4 Digit)](./same_python_file/poker_test_four_digit.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (5 Digit)](./same_python_file/poker_test_five_digit.py)
 
 <br/>
 
