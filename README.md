@@ -143,3 +143,9 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
 ### Unimodal Multimodal Density Curves Normal Distribution Example
  [jupyter File](./unimodal_multimodal_density_curves_normal_distribution.ipynb)     <br/>
  [Python File](./same_python_file/unimodal_multimodal_density_curves_normal_distribution.py)
+### Single Server Queue System Example
+ [jupyter File](./single_server_queue_system.ipynb)     <br/>
+ [Python File](./same_python_file/single_server_queue_system.py)
+### Inverse Exponential Distribution Example
+ [jupyter File](./inverse_exponential_distribution.ipynb)     <br/>
+ [Python File](./same_python_file/inverse_exponential_distribution.py)
