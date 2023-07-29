@@ -149,3 +149,6 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
 ### Inverse Exponential Distribution Example
  [jupyter File](./inverse_exponential_distribution.ipynb)     <br/>
  [Python File](./same_python_file/inverse_exponential_distribution.py)
+### Critical-Section Problem Solution -> Peterson’s Solution
+ [jupyter File](./peterson_solution.ipynb)     <br/>
+ [Python File](./same_python_file/peterson_solution.py)
