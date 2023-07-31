@@ -135,20 +135,21 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
  [Jupyter File (3 Digit)](./poker_test_three_digit.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (4 Digit)](./poker_test_four_digit.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (5 Digit)](./poker_test_five_digit.ipynb)  <br/>
  [Python File (3 Digit)](./same_python_file/poker_test_three_digit.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (4 Digit)](./same_python_file/poker_test_four_digit.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (5 Digit)](./same_python_file/poker_test_five_digit.py)
 
-<br/>
+<hr/><hr/><hr/>
 
-### Poisson Distribution Example
- [jupyter File](./poisson_distribution.ipynb)     <br/>
- [Python File](./same_python_file/poisson_distribution.py)
-### Unimodal Multimodal Density Curves Normal Distribution Example
- [jupyter File](./unimodal_multimodal_density_curves_normal_distribution.ipynb)     <br/>
- [Python File](./same_python_file/unimodal_multimodal_density_curves_normal_distribution.py)
-### Single Server Queue System Example
+### Lab - 1 == Single Server Queue System Example
  [jupyter File](./single_server_queue_system.ipynb)     <br/>
  [Python File](./same_python_file/single_server_queue_system.py)
-### Inverse Exponential Distribution Example
+### Lab - 2 == Poisson Distribution Example
+ [jupyter File](./poisson_distribution.ipynb)     <br/>
+ [Python File](./same_python_file/poisson_distribution.py)
+### Lab - 3 == Unimodal Multimodal Density Curves Normal Distribution Example
+ [jupyter File](./unimodal_multimodal_density_curves_normal_distribution.ipynb)     <br/>
+ [Python File](./same_python_file/unimodal_multimodal_density_curves_normal_distribution.py)
+### Lab - 4 == Exponential Distribution
+ [jupyter File](./exponential_distribution.ipynb)     <br/>
+ [Python File](./same_python_file/exponential_distribution.py)
+### Lab - 5 == Inverse Exponential Distribution Example (Random variates)
  [jupyter File](./inverse_exponential_distribution.ipynb)     <br/>
  [Python File](./same_python_file/inverse_exponential_distribution.py)
-### Critical-Section Problem Solution -> Peterson’s Solution
- [jupyter File](./peterson_solution.ipynb)     <br/>
- [Python File](./same_python_file/peterson_solution.py)
+
