@@ -18,7 +18,7 @@ py -3.11 -m pip install numpy
 ```
 
 ## Code for Academic Course CIT-324 (Simulation and Modeling Sessional)
-##### `Chapter 2`
+## `Chapter 2 ----------------------------`
 <br/>
 
 ### 2.1 Area of Irreglar Figure using Monte Carlo Method
@@ -78,7 +78,7 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
 
 <br/>
 
-##### `Chapter 3`
+## `Chapter 3 ----------------------------`
 <br/>
 
  ### 3.2 Pure Pursuit Problem (Fighter Attacking Bomber)
@@ -107,7 +107,7 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
 
  <br/>
 
-##### `Chapter 4`
+## `Chapter 4 ----------------------------`
 <br/>
 
 ### 4.5 Mid Square Random Number Generator
@@ -135,7 +135,10 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
  [Jupyter File (3 Digit)](./poker_test_three_digit.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (4 Digit)](./poker_test_four_digit.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (5 Digit)](./poker_test_five_digit.ipynb)  <br/>
  [Python File (3 Digit)](./same_python_file/poker_test_three_digit.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (4 Digit)](./same_python_file/poker_test_four_digit.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (5 Digit)](./same_python_file/poker_test_five_digit.py)
 
-<hr/><hr/><hr/>
+<hr/><hr/>
+
+## `Masud Sir Part`
+<hr/>
 
 ### Lab - 1 == Single Server Queue System Example
  [jupyter File](./single_server_queue_system.ipynb)     <br/>
@@ -153,3 +156,4 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
  [jupyter File](./inverse_exponential_distribution.ipynb)     <br/>
  [Python File](./same_python_file/inverse_exponential_distribution.py)
 
+<hr/>
