@@ -135,6 +135,18 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
  [Jupyter File (3 Digit)](./chapter_4/poker_test_three_digit.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (4 Digit)](./chapter_4/poker_test_four_digit.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (5 Digit)](./chapter_4/poker_test_five_digit.ipynb)  <br/>
  [Python File (3 Digit)](./chapter_4/same_python_file/poker_test_three_digit.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (4 Digit)](./chapter_4/same_python_file/poker_test_four_digit.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (5 Digit)](./chapter_4/same_python_file/poker_test_five_digit.py)
 
+ <br/>
+
+## `Chapter 11 ----------------------------`
+<br/>
+
+### 11.2 Simulation of a Counter Service
+ [jupyter File](./chapter_11/counter_service.ipynb)     <br/>
+ [Python File](./chapter_11/same_python_file/counter_service.py)
+### 11 Sample
+ [jupyter File](./chapter_11/counter_service.ipynb)     <br/>
+ [Python File](./chapter_11/same_python_file/counter_service.py)
+
 <hr/><hr/>
 
 ## `Masud Sir Part`
