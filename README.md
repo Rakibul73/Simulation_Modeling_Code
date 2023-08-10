@@ -142,7 +142,7 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
 
 ### 11.2 Simulation of a Counter Service
  [jupyter File](./chapter_11/counter_service.ipynb)     <br/>
- [Python File](./chapter_11/same_python_file/counter_service.py)
+ [Python File](./chapter_11/same_python_file/counter_service.py)  &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./chapter_11/same_python_file/counter_service_alternative.py)
 ### 11 Sample
  [jupyter File](./chapter_11/counter_service.ipynb)     <br/>
  [Python File](./chapter_11/same_python_file/counter_service.py)
