@@ -87,7 +87,7 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
 
 ### 3.3 Simulation of a Chemical Reaction
  [jupyter File](./chapter_3/chemical_reaction.ipynb)     <br/>
- [Python File](./chapter_3/same_python_file/chemical_reaction.py)
+ [Python File](./chapter_3/same_python_file/chemical_reaction.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File (Plot Animation)](./chapter_3/same_python_file/chemical_reaction_animation.py)
 
 ### 3.6 A Serial Chase Problem
  [Jupyter File (No Plot Graph)](./chapter_3/serial_chase_problem.ipynb) &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File (Plot Graph + No Animation)](./chapter_3/serial_chase_problem_gui.ipynb) &nbsp;&nbsp; <br/>
