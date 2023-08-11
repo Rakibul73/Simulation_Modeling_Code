@@ -143,9 +143,12 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
 ### 11.2 Simulation of a Counter Service
  [jupyter File](./chapter_11/counter_service.ipynb)     <br/>
  [Python File](./chapter_11/same_python_file/counter_service.py)  &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./chapter_11/same_python_file/counter_service_alternative.py)
-### 11 Sample
- [jupyter File](./chapter_11/counter_service.ipynb)     <br/>
- [Python File](./chapter_11/same_python_file/counter_service.py)
+### 11.3 Simulation of a Maintanence Replacement Problem
+ [jupyter File](./chapter_11/maintanence_replacement.ipynb)     <br/>
+ [Python File](./chapter_11/same_python_file/maintanence_replacement.py)
+### 11 Simulation of a 
+ [jupyter File](./chapter_11/maintanence_replacement.ipynb)     <br/>
+ [Python File](./chapter_11/same_python_file/maintanence_replacement.py)
 
 <hr/><hr/>
 
