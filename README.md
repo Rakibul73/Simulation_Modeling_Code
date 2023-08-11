@@ -146,9 +146,12 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
 ### 11.3 Simulation of a Maintanence Replacement Problem
  [jupyter File](./chapter_11/maintanence_replacement.ipynb)     <br/>
  [Python File](./chapter_11/same_python_file/maintanence_replacement.py)
+### 11 Simulation of a Capacity Planning Problem
+ [jupyter File](./chapter_11/capacity_planning.ipynb)     <br/>
+ [Python File](./chapter_11/same_python_file/capacity_planning.py)
 ### 11 Simulation of a 
- [jupyter File](./chapter_11/maintanence_replacement.ipynb)     <br/>
- [Python File](./chapter_11/same_python_file/maintanence_replacement.py)
+ [jupyter File](./chapter_11/capacity_planning.ipynb)     <br/>
+ [Python File](./chapter_11/same_python_file/capacity_planning.py)
 
 <hr/><hr/>
 
