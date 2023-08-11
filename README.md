@@ -154,7 +154,7 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
 
 ### Lab - 1 == Single Server Queue System Example
  [jupyter File](./masud_sir_part/single_server_queue_system.ipynb)     <br/>
- [Python File](./same_python_file/single_server_queue_system.py)
+ [Python File](./masud_sir_part/same_python_file/single_server_queue_system.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 1](./masud_sir_part/same_python_file/single_server_queue_system_alternative_1.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 2](./masud_sir_part/same_python_file/single_server_queue_system_alternative_2.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 3](./masud_sir_part/same_python_file/single_server_queue_system_alternative_3.py)
 ### Lab - 2 == Poisson Distribution Example
  [jupyter File](./masud_sir_part/poisson_distribution.ipynb)     <br/>
  [Python File](./same_python_file/poisson_distribution.py)
