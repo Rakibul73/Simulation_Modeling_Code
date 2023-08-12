@@ -80,7 +80,7 @@ def main():
         kont += 1
 
     # Calculate costs for both policies
-    cost1 = count * (200 + 100)
+    cost1 = count * (200 + 100) # Shut down cost 200 , cost of tube 100
     cost2 = kont * 2 * 200 + kont * 4 * 100
 
     # Print the calculated costs for both policies
