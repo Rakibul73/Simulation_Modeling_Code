@@ -221,6 +221,15 @@ def main():
     prob_distrib_demand = [0.0]  # Initialize with 0 at index 0
     prob_distrib_demand.extend(map(float, input().split()))
     
+    # Read inventory policy pairs
+    print("Enter inventory policy pairs (smalls bigs) for each policy:")
+    smalls_arr = []  # Initialize with 0 at index 0
+    bigs_arr = []    # Initialize with 0 at index 0
+    for _ in range(int(num_policies)):
+        smalls, bigs = map(int, input().split())
+        smalls_arr.append(smalls)
+        bigs_arr.append(bigs)
+    
     # Print report heading and input parameters
     print("Single-product inventory system\n")
     print(f"Initial inventory level{'':18}{int(initial_inv_level)} items")
@@ -235,14 +244,6 @@ def main():
           f"h ={'':7}{holding_cost:.1f} pi ={'':7}{shortage_cost:.1f}")
     print(f"Number of policies{'':23}{int(num_policies)}\n")
     
-    # Read inventory policy pairs
-    print("Enter inventory policy pairs (smalls bigs) for each policy:")
-    smalls_arr = []  # Initialize with 0 at index 0
-    bigs_arr = []    # Initialize with 0 at index 0
-    for _ in range(int(num_policies)):
-        smalls, bigs = map(int, input().split())
-        smalls_arr.append(smalls)
-        bigs_arr.append(bigs)
     
     print("Policy\tAverage total cost\tAverage ordering cost\tAverage holding cost\tAverage shortage cost")
     
@@ -274,3 +275,22 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+'''
+
+60 120 9 4 0.10 32.0 3.0 1.0 5.0 0.50 1.0
+0.167 0.500 0.833 1.000
+20 40
+20 60
+20 80
+20 100
+40 60
+40 80
+40 100
+60 80
+60 100
+
+
+
+'''
