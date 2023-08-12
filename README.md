@@ -152,9 +152,12 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
 ### 11 Simulation of a Profit Analysis Problem
  [jupyter File](./chapter_11/profit_analysis.ipynb)     <br/>
  [Python File](./chapter_11/same_python_file/profit_analysis.py)
+### 11 Simulation of a Inventory Problem
+ [jupyter File](./chapter_11/inventory.ipynb)     <br/>
+ [Python File](./chapter_11/same_python_file/inventory.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./chapter_11/same_python_file/inventory_alternative_2.py)
 ### 11 Simulation of a 
- [jupyter File](./chapter_11/profit_analysis.ipynb)     <br/>
- [Python File](./chapter_11/same_python_file/profit_analysis.py)
+ [jupyter File](./chapter_11/inventory.ipynb)     <br/>
+ [Python File](./chapter_11/same_python_file/inventory.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./chapter_11/same_python_file/inventory_alternative_2.py)
 
 <hr/><hr/>
 
