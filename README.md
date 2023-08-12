@@ -154,7 +154,7 @@ Use this `numpy.random.randn()` or this `numpy.random.normal()` for Normally dis
  [Python File](./chapter_11/same_python_file/profit_analysis.py)
 ### 11 Simulation of a Inventory Problem
  [jupyter File](./chapter_11/inventory.ipynb)     <br/>
- [Python File](./chapter_11/same_python_file/inventory.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./chapter_11/same_python_file/inventory_alternative_2.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./chapter_11/same_python_file/inventory_alternative_3.py)
+ [Python File](./chapter_11/same_python_file/inventory.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 2](./chapter_11/same_python_file/inventory_alternative_2.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 3](./chapter_11/same_python_file/inventory_alternative_3.py)
 ### 11 Simulation of a 
  [jupyter File](./chapter_11/inventory.ipynb)     <br/>
  [Python File](./chapter_11/same_python_file/inventory.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./chapter_11/same_python_file/inventory_alternative_2.py)
